@@ -23,7 +23,7 @@ Available in multiple configurations:
 - NTP or GPS time source
 - Up to five simultaneous word libraries
 - Optional expletive file with three levels (mild / medium / strong)
-- Over 9,000 English words included; additional libraries with 30,000+ words
+- Over 9,000 English words included; additional libraries with 30,000+ words in several languages
 - Word groups up to 64 characters; longer groups scroll automatically
 - Proverbs and Klingon libraries included
 - RGB LED backlight with multiple effects and library indicator mode
@@ -38,7 +38,7 @@ Available in multiple configurations:
 
 ## Configuration
 
-On first power, the clock starts in Access Point mode. Connect to the Wi-Fi network **WordClock-[model]** from any device, then navigate to `192.168.13.1` in a browser to configure Wi-Fi, NTP server, libraries, display options, and override schedules.
+On first power, the clock starts in Access Point mode. Connect to the Wi-Fi network **WordClock-[model]** from any device, then navigate to `192.168.4.1` in a browser to configure Wi-Fi, NTP server, libraries, display options, and override schedules.
 
 ---
 
@@ -62,7 +62,6 @@ All library files are plain text on the SD card, editable with any text editor:
 | SW1 single press | Cycle expletive level |
 | SW1 double press | Cycle clock mode |
 | SW2 single press | Cancel override temporarily |
-| SW2 double press | Enter AP configuration mode |
 | SW2 triple press | Light sensor calibration |
 | SW1 hold (10s) | OTA firmware update |
 | SW2 hold (5s) | Restart to AP mode |
