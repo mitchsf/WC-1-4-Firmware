@@ -11,7 +11,7 @@ Clocks are available for purchase at [Stocks Clocks](https://stocksclocks.com/in
 Available in multiple configurations:
 
 - **Display types:** Alphanumeric LED (.8" or 2.3"), VFD, B7971 Nixie tubes
-- **Display widths:** 6, 8, 16, and 25 characters
+- **Display widths:** 6, 8, and 16 characters
 - **Models:** WordClock 1-6, 1-8, 1-16, 2-6, 2-8, 2-16, 3-6, 3-8, 3-16, 4-6, 4-8
 
 ---
