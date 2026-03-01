@@ -1,6 +1,6 @@
 # WordClock 1-4
 
-Firmware for the WordClock family of alphanumeric display clocks by [Angry Electrons](https://angryelectrons.co). Displays randomly selected words from a user-editable library every five seconds, interspersed with the time and date.
+Firmware for the WordClock family of alphanumeric display clocks by [Angry Electrons](https://angryelectrons.com). Displays randomly selected words from a user-editable library, interspersed with the time and date.
 
 Clocks are available for purchase at [Stocks Clocks](https://stocksclocks.com/index.php/word-clocks-angry-electrons/).
 
