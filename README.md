@@ -23,7 +23,7 @@ Available in multiple configurations:
 - NTP or GPS time source
 - Up to five simultaneous word libraries
 - Optional expletive file with three levels (mild / medium / strong)
-- Over 9,000 English words included; additional libraries with 30,000+ words in several languages
+- Over 150,000 English words included; additional libraries with 30,000+ words in several languages
 - Word groups up to 64 characters; longer groups scroll automatically
 - Proverbs and Klingon libraries included
 - RGB LED backlight with multiple effects and library indicator mode
