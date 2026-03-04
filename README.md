@@ -26,11 +26,12 @@ Available in multiple configurations:
 - Over 150,000 English words included; additional libraries with 30,000+ words in several languages
 - Word groups up to 64 characters; longer groups scroll automatically
 - Proverbs and Klingon libraries included
-- RGB LED backlight with multiple effects and library indicator mode
-- Three override modes (dim, sleep, time-only) by time range and day type
+- RGB LED backlight with multiple effects
+- Three override modes (dim, sleep, time-only) by time range and day
 - Light sensor support for automatic brightness adjustment
 - OTA (over-the-air) firmware updates
 - Web browser configuration via built-in access point
+- Live setting changes
 - DST and UTC offset support for worldwide use
 - Word transitions: slide, energize, or random
 
@@ -59,9 +60,9 @@ All library files are plain text on the SD card, editable with any text editor:
 
 | Button | Action |
 |---|---|
-| SW1 single press | Cycle expletive level |
+| SW1 single press | Cancel override for defined period |
 | SW1 double press | Cycle clock mode |
-| SW2 single press | Cancel override temporarily |
+| SW2 single press | Cycle expletive mode |
 | SW2 triple press | Light sensor calibration |
 | SW1 hold (10s) | OTA firmware update |
 | SW2 hold (5s) | Restart to AP mode |
